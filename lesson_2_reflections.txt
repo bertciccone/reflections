@@ -5,3 +5,7 @@ Reflection: metadata describing the commit and status of the repository is added
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Reflection: the working directory has "work in progress" and not yet completed, the staging area has work "completed parts of the work" and the repository has "completed work".
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Reflection: I will either make sure that all the changes in staging are for one logical change, or I will only commit those files from staging that are for one logical change. This means that I should not modify a file with two or more logical changes and then add it to staging.
