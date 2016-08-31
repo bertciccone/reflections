@@ -26,7 +26,3 @@ Reflection: when making changes after a commit, I will feel confident that I can
 Now that you have your workspace set up, what do you want to try using Git for?
 
 Reflection: I'd like to use git for the rest of my projects in this course as well as my professional projects, if possible.
-
-What happens when you initialize a repository? Why do you need to do it?
-
-Reflection: metadata describing the commit and status of the repository is added or updated.
