@@ -17,3 +17,7 @@ Reflection: fixing an older version, creating a localized version, creating a pl
 How do the diagrams help you visualize the branch structure?
 
 Reflection: the diagram indicates which changes are included in each branched version of the repository
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Reflection: the commits from each branch are combined into a single branch, interweaving them according to commit date. After the commit, the diagram shows all the commits on a single column, indicating that they no longer follow different paths.
