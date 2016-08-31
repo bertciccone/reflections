@@ -4,4 +4,4 @@ Reflection: metadata describing the commit and status of the repository is added
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Reflection: the working directory has "work in progress" and not yet completed, the staging area has work "ready for completion" and the repository has work "completed".
+Reflection: the working directory has "work in progress" and not yet completed, the staging area has work "completed parts of the work" and the repository has "completed work".
