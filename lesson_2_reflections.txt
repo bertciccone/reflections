@@ -9,3 +9,7 @@ Reflection: the working directory has "work in progress" and not yet completed, 
 How can you use the staging area to make sure you have one commit per logical change?
 
 Reflection: I will either make sure that all the changes in staging are for one logical change, or I will only commit those files from staging that are for one logical change. This means that I should not modify a file with two or more logical changes and then add it to staging.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Reflection: fixing an older version, creating a localized version, creating a platform-specific version
