@@ -11,12 +11,12 @@ Reflection: I may not be ready to use the changes that are in remote and that ar
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Reflection: forks make a copy of a remote repository on GitHub and start a new remote branch, clones copy a remote repository from GitHub to my computer, branches create a new set of commits that are not included in the original.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+Reflection: you can review the latest remote changes before actually merging them into your branch. Also, you can review them while offline, as when you are on a plane.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
