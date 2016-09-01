@@ -6,7 +6,7 @@ Reflection: when I plan to distribute my project or collaborate with another dev
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Reflection: I may not be ready to use the changes that are in remote and that are not yet included in my repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
