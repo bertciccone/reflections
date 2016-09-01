@@ -21,3 +21,7 @@ Reflection: the diagram indicates which changes are included in each branched ve
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Reflection: the commits from each branch are combined into a single branch, interweaving them according to commit date. After the commit, the diagram shows all the commits on a single column, indicating that they no longer follow different paths.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Reflections: this saves a lot of time for the obvious merges, and allows the user to resolve harder conflicts.
